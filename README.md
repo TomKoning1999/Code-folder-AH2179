@@ -6,3 +6,5 @@ Module 3: Classification models
 Module 4: Sentiment analysis
 Module 5: Clustering analysis
 Module 6: Data reduction with PCA and kernel PCA
+Module 7: Neural networks
+
